@@ -10,7 +10,7 @@
 
 Demo Apps [BookshelfApp-M Aji Perdana](https://ajiperdana38.github.io/BookShelfApps-Aji-Perdana/)
 
-## Fitur Aplikasi
+## Fitur Aplikasi Web Bookshelf:
 * Input Buku
 * Rak Buku Sudah Dibaca / Belum Dibaca
 * Edit Buku
